@@ -5,8 +5,7 @@ It screens a subject against selected coverage, retrieves retained results and
 evidence, and checks source availability. Requires Go 1.26 or newer. The client
 uses only the Go standard library.
 
-This source is prepared for review. Version 0.1.0 has not been published or
-indexed yet. Once released, its install command will be:
+Install version 0.1.0:
 
 ```sh
 go get github.com/SanctionsKit/sanctionskit-go@v0.1.0
