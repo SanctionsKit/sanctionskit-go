@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "sandbox-synthetic",
+      "name": "Synthetic example records",
+      "authority": "SanctionsKit sandbox",
+      "availability": "available",
+      "capabilities": [
+        "person",
+        "organization"
+      ],
+      "rightsStatus": "approved",
+      "category": "other",
+      "qualification": {
+        "implemented": true,
+        "fixtureTested": true,
+        "liveFetchTested": false,
+        "rightsApproved": true,
+        "activated": false,
+        "blockers": [
+          "Synthetic fixture only; no government source was fetched or activated."
+        ]
+      }
+    }
+  ]
+}
